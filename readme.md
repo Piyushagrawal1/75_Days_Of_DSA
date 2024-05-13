@@ -7,3 +7,5 @@
 ### 4. searchInRotatedSortedArray
 
 ### 5. Longest Common prefix
+
+### 6. Reverse voewel of an string
