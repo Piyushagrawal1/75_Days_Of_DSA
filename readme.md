@@ -9,3 +9,5 @@
 ### 5. Longest Common prefix
 
 ### 6. Reverse voewel of an string
+
+### 7. Isomorphic Strings
