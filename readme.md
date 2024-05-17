@@ -23,3 +23,5 @@
 ### 12:- Find the Index of the First Occurrence in a String
 
 ### 13:- Integer to String(atoi)
+
+### 14:- Missing Number in An array
