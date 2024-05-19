@@ -31,3 +31,5 @@
 ### 16:- String Compression - Leetcode 443
 
 ### 17:- Integer to roman - Leetcode 12
+
+### 18:- Zigzag Coonversion - Leettcode 6
