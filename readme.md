@@ -37,3 +37,5 @@
 ### 19:- Find K Closest Elements - Leetcode 658
 
 ### 20:- Largest Number - Leetcode 179
+
+### 21:- Remove Element - Leetcode - 27
