@@ -39,3 +39,5 @@
 ### 20:- Largest Number - Leetcode 179
 
 ### 21:- Remove Element - Leetcode - 27
+
+### 22:- 2 Sum - Leetcode - 01
