@@ -41,3 +41,5 @@
 ### 21:- Remove Element - Leetcode - 27
 
 ### 22:- 2 Sum - Leetcode - 01
+
+### 23:- Reverse Interger - 07
