@@ -47,3 +47,5 @@
 ### 24:- Rotate Image - Leetcode - 48
 
 ### 25:- Two Sum 2 - Leetcode - 167
+
+### 26:- 3 Sum - Leetcode - 15
