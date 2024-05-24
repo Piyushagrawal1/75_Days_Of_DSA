@@ -45,3 +45,5 @@
 ### 23:- Reverse Interger - 07
 
 ### 24:- Rotate Image - Leetcode - 48
+
+### 25:- Two Sum 2 - Leetcode - 167
