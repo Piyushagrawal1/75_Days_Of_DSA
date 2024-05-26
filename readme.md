@@ -49,3 +49,5 @@
 ### 25:- Two Sum 2 - Leetcode - 167
 
 ### 26:- 3 Sum - Leetcode - 15
+
+### 27:- Trapping Rain Water - 42
