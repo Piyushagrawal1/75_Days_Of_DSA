@@ -53,3 +53,5 @@
 ### 27:- Trapping Rain Water - 42
 
 ### 28:- # Sum Closest - 16
+
+### 29:- Count Prime - Leetcode - 204
