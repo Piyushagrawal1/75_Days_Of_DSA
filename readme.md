@@ -57,3 +57,5 @@
 ### 29:- Count Prime - Leetcode - 204
 
 ### 30:- Remove duplicate from sorted Array - Leetcode - 26
+
+### 31:- Check if Array Is Sorted and Rotated - Leetcode - 1752
