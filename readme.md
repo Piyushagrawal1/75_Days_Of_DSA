@@ -55,3 +55,5 @@
 ### 28:- # Sum Closest - 16
 
 ### 29:- Count Prime - Leetcode - 204
+
+### 30:- Remove duplicate from sorted Array - Leetcode - 26
