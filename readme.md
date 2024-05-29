@@ -59,3 +59,5 @@
 ### 30:- Remove duplicate from sorted Array - Leetcode - 26
 
 ### 31:- Check if Array Is Sorted and Rotated - Leetcode - 1752
+
+### 32:- Climbing Stairs - Leetcode -70
