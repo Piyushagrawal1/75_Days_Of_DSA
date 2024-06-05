@@ -70,3 +70,5 @@
 
 ### 36:- Reverse an String 2nd Method - GFG
 
+### 37:- Transpose Matrix - Leetcode - 867
+
