@@ -68,3 +68,5 @@
 
 ### 35:- Move all negative elements to end - GFG
 
+### 36:- Reverse an String 2nd Method - GFG
+
