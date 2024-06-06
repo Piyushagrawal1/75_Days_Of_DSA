@@ -72,3 +72,5 @@
 
 ### 37:- Transpose Matrix - Leetcode - 867
 
+### 38:- Prime Number - GFG 
+
