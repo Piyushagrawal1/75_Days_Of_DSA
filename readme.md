@@ -74,3 +74,5 @@
 
 ### 38:- Prime Number - GFG 
 
+### 39:- Power of 2
+
